@@ -10,3 +10,8 @@ https://lurialab.com/
 
 - [Zeynal Zeynalov](https://www.linkedin.com/in/zeynal/) - Co-Founder and Senior Software Engineer
 - [Firdovsi Aliyev](https://www.linkedin.com/in/firdovsialiyev/) - Co-Founder and Clinical Neuropsychologist / Psychotherapist
+
+
+<center>
+<img src="https://github.com/zeynalzeynalov/LuriaLab-Startup/blob/main/Images/lurialab-logo.png" width="200">
+</center>
