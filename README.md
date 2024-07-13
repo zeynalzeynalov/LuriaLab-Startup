@@ -2,6 +2,8 @@
 
 **About the Project:**
 
+LuriaLab startup was founded in the summer of 2023 and launched as a mental health assessment portal at the end of 2023.
+
 We at Lurialab.com are an experienced and skilled team in the field of psychometric tests and assessments. Our mission is to bring out people's potential and support them in their career and personal development journey. Our mission is to provide innovative and effective psychometric solutions that help people maximize their potential. Each of our tests is designed to support people to think independently, learn and improve their achievement in relevant areas.
 
 https://lurialab.com/
