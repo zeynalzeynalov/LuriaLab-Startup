@@ -1,6 +1,6 @@
 # LuriaLab startup
 
-**About the Project:**
+**About the project:**
 
 LuriaLab startup was founded in the summer of 2023 and launched as a mental health assessment portal at the beginning of 2024.
 
@@ -8,9 +8,20 @@ We at Lurialab.com are an experienced and skilled team in the field of psychomet
 
 https://lurialab.com/
 
+Supported languages: English, German, Turkish, Azerbaijani, Russian
+
 **Team:**
 
 - [Zeynal Zeynalov](https://www.linkedin.com/in/zeynal/) - Co-Founder and Senior Software Engineer
 - [Firdovsi Aliyev](https://www.linkedin.com/in/firdovsialiyev/) - Co-Founder and Clinical Neuropsychologist / Psychotherapist
+
+List of popular tests on website:
+
+- GAD-7: General Anxiety Disorder Test
+- RSES: Rosenberg Self-Esteem Scale
+- BAI: Beck Anxiety Inventory
+- PHQ-9: Patient Health Questionnaire - Depression
+- IES-R: Impact of Events Scale - Revised
+- ASRS-V1.1: Adult ADHD Self-Report Scale V1.1
 
 ![Logo](https://github.com/zeynalzeynalov/LuriaLab-Startup/blob/main/Images/lurialab-logo.png)
