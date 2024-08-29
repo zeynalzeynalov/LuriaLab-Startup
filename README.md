@@ -8,7 +8,7 @@ We at Lurialab.com are an experienced and skilled team in the field of psychomet
 
 https://lurialab.com/
 
-Supported languages: English, German, Turkish, Azerbaijani, Russian
+Supported languages: English, German, Turkish, Azerbaijani, Russian, Spanish, Italian, French, Romanian, , Ukrainian
 
 **Team:**
 
