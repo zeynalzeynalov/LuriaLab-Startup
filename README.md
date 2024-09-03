@@ -23,5 +23,6 @@ List of popular tests on website:
 - PHQ-9: Patient Health Questionnaire - Depression
 - IES-R: Impact of Events Scale - Revised
 - ASRS-V1.1: Adult ADHD Self-Report Scale V1.1
+- ASEX: Arizona Sexual Experience Scale
 
 ![Logo](https://github.com/zeynalzeynalov/LuriaLab-Startup/blob/main/Images/lurialab-logo.png)
